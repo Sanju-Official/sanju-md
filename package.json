@@ -1,6 +1,6 @@
 {
-  "name": "Red-Dragon-MD",
-  "version": "4.0.0",
+  "name": "[ 𝚂𝙰𝙽𝙹𝚄 𝙼𝙳 ]",
+  "version": "1.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "boot.js",
   "type": "commonjs",
@@ -10,7 +10,7 @@
   "keywords": [
     "termux",
     "whatsapp",
-    "red-dragon",
+    "sanju md",
     "base",
     "baileys-md",
     "bot",
