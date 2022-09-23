@@ -19,7 +19,7 @@ global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.available = false //auto available (true to on, false to off)
+global.available = true //auto available (true to on, false to off)
 
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.doc2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
@@ -70,7 +70,7 @@ global.mess = {
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
+    bot: '*ඔය Feature එක Botට විතරයි😝*',
     wait: '*👉👈 චුට්ටක් ඉන්න 😁...*',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
